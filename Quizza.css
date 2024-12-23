@@ -1,0 +1,62 @@
+header{
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.welcome{
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#Math{
+    background-image: url("file:///c%3A/Users/NATI/OneDrive%20-%20CORONA%20SCHOOLS%27%20TRUST%20COUNCIL/Desktop/NatsProjects/Quizza/Math.png");
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+
+#Chemistry{
+    background-image: url("file:///c%3A/Users/NATI/OneDrive%20-%20CORONA%20SCHOOLS%27%20TRUST%20COUNCIL/Desktop/NatsProjects/Quizza/Chemistry.png");
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+#Biology{
+    background-image: url("file:///c%3A/Users/NATI/OneDrive%20-%20CORONA%20SCHOOLS%27%20TRUST%20COUNCIL/Desktop/NatsProjects/Quizza/Biology.png");
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+#Physics{
+    background-image: url("file:///c%3A/Users/NATI/OneDrive%20-%20CORONA%20SCHOOLS%27%20TRUST%20COUNCIL/Desktop/NatsProjects/Quizza/Physics.png");
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
+
+#English{
+    background-image: url("file:///c%3A/Users/NATI/OneDrive%20-%20CORONA%20SCHOOLS%27%20TRUST%20COUNCIL/Desktop/NatsProjects/Quizza/English.png");
+    background-size: 100px 100px;
+    width: 100px;
+    height: 100px;
+}
